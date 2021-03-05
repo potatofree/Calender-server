@@ -1,0 +1,15 @@
+https://www.google.com/search
+?
+q=test
+&
+rlz=1C1CHBF_enDE849DE849
+&
+oq=test
+&
+aqs=chrome..69i57j0l7.2682j0j15
+&
+sourceid=chrome
+&
+ie=UTF-8
+
+curl http://localhost:3000/calender/events?name=Event
